@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Sleepmorezzz (李兴龙)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Game Designer
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: tap4fun
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Active in various game-related activities, including China Game jam and Tencent Youth Game Designer Challenge, and developed minigames with partners many times
 
 #interests:
 #- Artificial Intelligence
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Worked in P2 Studio for Age of Apes game project, designed 4 major game systems including gameplay, function and level design, and drove the implementation (the game has been launched both in China and overseas)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Provided valuable optimization for 10+ previous game systems as to system design, implementation, and data analysis
